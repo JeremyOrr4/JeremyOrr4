@@ -2,6 +2,9 @@
 
 ## Education
 Software Engineering and Management at McMaster!
+
+## Hobbies
+I love music. I play the Guitar, Bass, Piano and Drums!
 <!--
 **JeremyOrr4/JeremyOrr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
