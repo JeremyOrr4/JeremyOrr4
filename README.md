@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##Education
+Software Engineering and Management at McMaster!
 <!--
 **JeremyOrr4/JeremyOrr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
