@@ -1,11 +1,8 @@
 # Hi there 👋
 Come browse, you are more than welcome too.
 
-## Education
-Software Engineering and Commerce at McMaster.
+Message if you hve any questions!
 
-## Hobbies
-I love music & finance.
 
 <!--
 **JeremyOrr4/JeremyOrr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
